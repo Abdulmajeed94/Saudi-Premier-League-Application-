@@ -1,0 +1,21 @@
+export const LOGO = {
+    "Al Hilal" : require("../assets/images/AlHilal.png"),
+    "Al Nassr" : require("../assets/images/AlNassr.png"),
+    "Al Hazem" : require("../assets/images/AlHazem.png"),
+    "Al Kholood" : require("../assets/images/AlKholood.png"),
+    "Al Ittihad" : require("../assets/images/AlIttihad.png"),
+    "Al Khaleej" : require("../assets/images/AlKhaleej.png"),
+    "Al Qadsiah" : require("../assets/images/AlQadsiah.png"),
+    "Al Riyadh" : require("../assets/images/AlRiyadh.png"),
+    "Al Taawoun" : require("../assets/images/AlTaawoun.png"),
+    "Diriyah Club" : require("../assets/images/DiriyahClub.png"),
+    "Abha" : require("../assets/images/Abha.png"),
+    "Al Ahli" : require("../assets/images/AlAhli.png"),
+    "Al Ettifaq" : require("../assets/images/AlEttifaq.png"),
+    "Al Fayha" : require("../assets/images/AlFayha.png"),
+    "NEOM SC" : require("../assets/images/NEOMSC.png"),
+    "Al Shabab" : require("../assets/images/AlShabab.png"),
+    "Al Fateh" : require("../assets/images/AlFateh.png"),
+     "Al Faisaly" : require("../assets/images/AlFaisaly.png"),
+
+}
